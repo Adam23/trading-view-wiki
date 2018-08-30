@@ -2,20 +2,13 @@
   "title": "TradingView中文开发文档",
   "description": "TradingView为优秀的交易技术分析图表库",
   "language": "zh",
-  "plugins": [
-    "disqus",
-    "github",
-    "prism",
-    "splitter",
-    "sitemap",
-    "donate"
-  ],
+  "plugins": ["disqus", "github", "prism", "splitter", "sitemap", "donate"],
   "pluginsConfig": {
     "disqus": {
       "shortName": "aistock-ga"
     },
     "github": {
-      "url": "https://github.com/zlq4863947/tradingViewWikiCn"
+      "url": "https://github.com/Adam23/trading-view-wiki.git"
     },
     "donate": {
       "wechat": "https://b.aitrade.ga/books/tradingview/images/weixin.png",
