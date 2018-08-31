@@ -11,8 +11,8 @@
       "url": "https://github.com/Adam23/trading-view-wiki.git"
     },
     "donate": {
-      "wechat": "https://b.aitrade.ga/books/tradingview/images/weixin.png",
-      "alipay": "https://b.aitrade.ga/books/tradingview/images/alipay.png",
+      "wechat": "https://raw.githubusercontent.com/Adam23/trading-view-wiki/master/images/weixin.png",
+      "alipay": "https://raw.githubusercontent.com/Adam23/trading-view-wiki/master/images/alipay.png",
       "button": "赏",
       "alipayText": "支付宝打赏",
       "wechatText": "微信打赏"

@@ -9,8 +9,8 @@ TradingView 为优秀的交易技术分析金融图表，拥有丰富的技术�
 
 ## 本项目地址
 
-* 仓库：[https://github.com/zlq4863947/tradingViewWikiCn](https://github.com/zlq4863947/tradingViewWikiCn)
-* 在线阅读：[https://zlq4863947.gitbooks.io/tradingview/](https://zlq4863947.gitbooks.io/tradingview/)
+* 仓库：[https://github.com/Adam23/trading-view-wiki](https://github.com/Adam23/trading-view-wiki)
+* 在线阅读：[https://adam23.gitbooks.io/trading-view-wiki/content/](https://adam23.gitbooks.io/trading-view-wiki/content/)
 * 在线阅读(国内防墙)：[https://b.aitrade.ga/books/tradingview/](https://b.aitrade.ga/books/tradingview/)
 
 ## 视频教程
